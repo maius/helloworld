@@ -1,6 +1,13 @@
 helloworld
 ==========
 
-*this is a header*
+**this is a bold text**
 
--- why me --
+*why italics*
+
+This is a table:
+
+| Left | Right|
+| ---- | ---- |
+| One  | Foo  |
+| Two  | Bar  |
